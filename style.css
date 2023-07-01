@@ -1,0 +1,25 @@
+button{
+	width: 100%;
+	background-color:green;
+	border:none;
+	cursor:pointer;
+	padding: 14px;
+	margin:10px 0 15px 0;
+}
+
+.form name{
+	
+	width:50%;
+	height:4%;
+	background-color:yellow;
+	border:none;
+	font-family: cursive, sans-serif;
+
+}
+
+.font-properties {
+      font-family: cursive, sans-serif;
+      font-size: 1.3rem;
+      font-weight: bolder;
+      font-style: italic;
+    }
